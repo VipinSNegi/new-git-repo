@@ -1,1 +1,2 @@
 windows requires git bash to be insalledto be able to function
+i an=m add now

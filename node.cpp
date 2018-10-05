@@ -1,5 +1,4 @@
-#include<iostream.
-using namespace std;
+Un
 
 struct Node{
 Node * next;
