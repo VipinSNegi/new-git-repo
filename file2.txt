@@ -1,0 +1,4 @@
+git init new-git-repo
+
+.git directory will trak all version very crucial in version control
+
