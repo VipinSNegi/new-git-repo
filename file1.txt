@@ -1,2 +1,4 @@
 windows requires git bash to be insalledto be able to function
-i an=m add new line addeds (Dont Mind Dude)(COmmit to point )asdnlaskd;asmdma[
+
+i an=m add new line addeds (Dont Mind Dude)
+
